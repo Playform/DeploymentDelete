@@ -21,8 +21,8 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "🖋️ Source — 👐🏻 Open —",
-		"email": "Source/Open@PlayForm.Cloud",
-		"url": "HTTPS://PlayForm.Cloud"
+		"email": "Source/Open@PlayForm.LTD",
+		"url": "HTTPS://PlayForm.LTD"
 	},
 	"type": "module",
 	"main": "./Target/Function/Delete.js",
@@ -41,7 +41,7 @@
 	"devDependencies": {
 		"@cloudflare/workers-types": "4.20241022.0",
 		"@playform/build": "0.1.8",
-		"@types/node": "22.8.6"
+		"@types/node": "22.9.0"
 	},
 	"publishConfig": {
 		"access": "public",
