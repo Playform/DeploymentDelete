@@ -6,9 +6,7 @@ import type Interface from "../Interface/Delete.js";
  */
 // TODO: Find a way to use await in parameters
 export default (async (
-	...[
-		{ Email, ID, Key } = Environment.parse(process.env),
-	]
+	...[{ Email, ID, Key } = Environment.parse(process.env)]
 ) => {
 	const Header = {
 		"content-type": "application/json;charset=UTF-8",
