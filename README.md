@@ -1,7 +1,7 @@
 # ♻️ [Delete] —
 
 Delete stale Cloudflare Pages deployment. \
-https://developers.cloudflare.com/api/operations/pages-deployment-delete-deployment
+HTTPS://developers.cloudflare.com/api/operations/pages-deployment-delete-deployment
 
 ## 🚀 Installation
 
@@ -37,7 +37,7 @@ You can also publish it as a worker:
 wrangler deploy
 ```
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/PlayForm/Delete)
+[![Deploy to Cloudflare Workers](HTTPS://deploy.workers.cloudflare.com/button)](HTTPS://deploy.workers.cloudflare.com/?url=HTTPS://github.com/PlayForm/Delete)
 
 ## Script
 
