@@ -37,7 +37,7 @@ You can also publish it as a worker:
 wrangler deploy
 ```
 
-[![Deploy to Cloudflare Workers](HTTPS://deploy.workers.cloudflare.com/button)](HTTPS://deploy.workers.cloudflare.com/?url=HTTPS://github.com/PlayForm/Delete)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=HTTPS://github.com/PlayForm/Delete)
 
 ## Script
 
