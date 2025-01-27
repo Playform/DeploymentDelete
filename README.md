@@ -1,4 +1,4 @@
-# ♻️ [Delete] —
+# [Delete] ♻️
 
 Delete stale Cloudflare Pages deployment. \
 HTTPS://developers.cloudflare.com/api/operations/pages-deployment-delete-deployment
