@@ -3,7 +3,7 @@
 Delete stale Cloudflare Pages deployment. \
 HTTPS://developers.cloudflare.com/api/operations/pages-deployment-delete-deployment
 
-## 🚀 Installation
+## Installation 🚀
 
 ```sh
 npm install -g @playform/delete
